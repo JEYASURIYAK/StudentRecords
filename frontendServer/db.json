@@ -1,0 +1,56 @@
+{
+  "records": [
+    {
+      "name": "suriya",
+      "registerNo": "95192101301",
+      "email": "jeyasuriya7676@gmail.com",
+      "age": 22,
+      "place": "sivakasi",
+      "contact": "9894204897",
+      "address": {
+        "doorNo": "2/141-35",
+        "street": "Srinivasa Nagar",
+        "town": "Thayilpatti",
+        "district": "Virudhunagar",
+        "pincode": "626128"
+      },
+      "id": "2267"
+    },
+    {
+      "name": "karthik",
+      "registerNo": "95192101302",
+      "email": "karthik12@example.com",
+      "age": "22",
+      "place": "madurai",
+      "contact": "9876543210",
+      "address": {
+        "doorNo": "10/12",
+        "street": "Anna Nagar",
+        "town": "Madurai",
+        "district": "Madurai",
+        "pincode": "625001"
+      },
+      "id": "8145",
+      "regNo": "95192101302"
+    },
+    {
+      "id": "381e",
+      "name": "Paramasivam",
+      "registerNo": "95192101321",
+      "email": "paramasivam@gmail.com",
+      "age": "22",
+      "place": "Kovilpatti",
+      "contact": "9870657897",
+      "regNo": "95192101321"
+    },
+    {
+      "id": "71da",
+      "name": "ArunPandian",
+      "registerNo": "95192101304",
+      "email": "arunpandian2022@gmail.com",
+      "age": "24",
+      "place": "Thayilpatti",
+      "contact": "7639704207"
+    }
+  ]
+}
