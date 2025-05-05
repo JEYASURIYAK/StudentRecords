@@ -41,8 +41,8 @@ export default function Component() {
 
 
     return (
-        <div className='table-top-container '>
-            <div className='table-responsive table-container'>
+        <div className='table-top-container'>
+            <div className='table-container'>
                 <table className='table table-striped table-bordered'>
                     <thead>
                         <tr className='table-row'>
